@@ -1,0 +1,1 @@
+export const fsOperationFailMsg = 'FS operation failed';
